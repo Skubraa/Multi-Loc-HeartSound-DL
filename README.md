@@ -1,0 +1,1 @@
+Kalp seslerinden çok sınıflı hastalık teşhisi yapıldı. CNN modeli kullanıldı ve multi girişli bir eğitim yapıldı. Bir giriş kalp seslerinden oluşurken diğer girişe sesin bedenden alınan konumu eklendi. 
